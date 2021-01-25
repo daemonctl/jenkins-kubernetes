@@ -121,3 +121,12 @@ pipeline {
 - [x] minikube ip | jenkins.k8s.test --> "C:\Windows\System32\drivers\etc\hosts"
 
 You can see dashboard via browser @octocat :+1:
+
+
+## About
+
+My profile **[Korhan Herguner](https://www.linkedin.com/in/korhan-herguner/)**.
+
+- <https://www.linkedin.com/in/korhan-herguner/>
+- <https://medium.com/@korhanherguner>
+- <https://github.com/khergner>
